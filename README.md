@@ -1,7 +1,7 @@
 # Cube-Hell-Escape-Game-Unity-
 First attempt to make a game after learning basics of unity.   
 
-                                  <b>Main Menu</b>
+                                     Main Menu
 ![Main_Menu](https://user-images.githubusercontent.com/61588522/190511360-7834d132-51b8-47fc-a3ac-be8d7fa5ec91.png)
                                   <b>In Game</b>
 ![image](https://user-images.githubusercontent.com/61588522/190511590-d2e5fcfd-645c-4dc9-91e6-940cc00ebabd.png)
